@@ -17,7 +17,7 @@ namespace AutoNova_Car_Showroom
         };
 
         // ?? PUT YOUR NEW API KEY HERE
-        private const string GROQ_API_KEY = "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";
+        private const string GROQ_API_KEY = "Your_Grok_APi";
 
         private const string GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
         private const string GROQ_MODEL = "llama-3.1-8b-instant";

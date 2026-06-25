@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Python
+__pycache__/
+myenv/
+*.pyc
+
+# User-specific files
+*.user
+*.suo
